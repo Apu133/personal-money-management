@@ -1,0 +1,37 @@
+.field {
+    width: 40vw;
+    height: 40vh;
+    background-color: lightgrey;
+    margin: 0 0 0 30vw;
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+p {
+    margin: 8px 0 0 8px;
+    text-decoration: bold;
+    letter-spacing: 3px;
+}
+input {
+    position: absolute;
+    left: 45vw;
+    margin: 24px 0 0 60px;
+}
+label {
+    position: absolute;
+    margin: 20px 0 0 70px;
+}
+.ok {
+    position: absolute;
+    margin: 40px 0 0 220px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.heading {
+    align-self: center;
+}
+.back {
+    margin: 50px 0 0 10px;
+    padding: 5px 10px;
+    border-radius: 30px;
+}
